@@ -1,0 +1,58 @@
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\bin\Debug\ATEKELT TERA1.exe.config
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\bin\Debug\ATEKELT TERA1.exe
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\bin\Debug\ATEKELT TERA1.pdb
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.csproj.AssemblyReference.cache
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Admin.resources
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.CreateAccount.resources
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Dashboard.resources
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Login.resources
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Properties.Resources.resources
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.csproj.GenerateResource.cache
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.csproj.CoreCompileInputs.cache
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.exe
+C:\Users\etsub\source\repos\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.pdb
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\bin\Debug\ATEKELT TERA1.exe.config
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\bin\Debug\ATEKELT TERA1.exe
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\bin\Debug\ATEKELT TERA1.pdb
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.csproj.AssemblyReference.cache
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Admin.resources
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.CreateAccount.resources
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Dashboard.resources
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Login.resources
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Properties.Resources.resources
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.csproj.GenerateResource.cache
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.csproj.CoreCompileInputs.cache
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.exe
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.pdb
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Checkout.resources
+C:\Users\Abine\Downloads\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.SignUp.resources
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\bin\Debug\ATEKELT TERA1.exe.config
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\bin\Debug\ATEKELT TERA1.exe
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\bin\Debug\ATEKELT TERA1.pdb
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.csproj.AssemblyReference.cache
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Admin.resources
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Checkout.resources
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.CreateAccount.resources
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Dashboard.resources
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Login.resources
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Properties.Resources.resources
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.SignUp.resources
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.csproj.GenerateResource.cache
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.csproj.CoreCompileInputs.cache
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.exe
+C:\Users\gabby\Desktop\ATEKELT TERA1\ATEKELT TERA1\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.pdb
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\bin\Debug\ATEKELT TERA1.exe.config
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\bin\Debug\ATEKELT TERA1.exe
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\bin\Debug\ATEKELT TERA1.pdb
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.csproj.AssemblyReference.cache
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Admin.resources
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Checkout.resources
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.CreateAccount.resources
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Dashboard.resources
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Login.resources
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.Properties.Resources.resources
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\obj\Debug\ATEKELT_TERA1.SignUp.resources
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.csproj.GenerateResource.cache
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.csproj.CoreCompileInputs.cache
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.exe
+C:\Users\Abine\Downloads\Telegram Desktop\ATEKELT TERA1\obj\Debug\ATEKELT TERA1.pdb
